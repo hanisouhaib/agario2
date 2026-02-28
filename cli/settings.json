@@ -54,7 +54,7 @@
     "worldPlayerDisposeDelay": 1500,
     "worldEatMult": 1.140175425099138,
     "worldEatOverlapDiv": 3,
-    "worldPlayerBotsPerWorld": 1000,
+    "worldPlayerBotsPerWorld": 10000000,
     "worldPlayerBotNames": [
         "๖ۣۜ๖ۣۜ∆ʍለƶɪη๔ 〰 夔 〰",
         "ℱคƬค퓛 致 ❥❥",
@@ -2005,13 +2005,13 @@
         "skin_zebra_pattern_old",
         "skin_zombie_old"
     ],
-    "worldMinionsPerPlayer": 30,
+    "worldMinionsPerPlayer": 100,
     "worldMaxPlayers": 50,
     "worldMinCount": 0,
     "worldMaxCount": 2,
     "matchmakerNeedsQueuing": false,
     "matchmakerBulkSize": 1,
-    "minionName": "JOSEFREDO.XYZ",
+    "minionName": "hani",
     "minionSkin": "random",
     "minionSpawnSize": 32,
     "minionEnableERTPControls": true,
@@ -2060,7 +2060,7 @@
     "playerNoCollideDelay": 13,
     "playerNoMergeDelay": 15,
     "playerMergeVersion": "old",
-    "playerMergeTime": 30,
+    "playerMergeTime": 0,
     "playerMergeTimeIncrease": 0.02,
     "playerDecayMult": 0.001
 }
